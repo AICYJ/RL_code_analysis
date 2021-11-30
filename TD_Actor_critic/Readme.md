@@ -14,3 +14,5 @@ It is possible to derive an Advantage Actor-critic equation by using a policy gr
 
 The above equation is proved through &delta;=r+&gamma;V(s<sup>'</sup>)-V(s). As a result, we can use algorithms that can update policies with only n-step calculations and value-based functions. 
 Based on this understanding, let's check the sample code.
+
+thank you
